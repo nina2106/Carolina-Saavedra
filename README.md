@@ -1,7 +1,12 @@
-  # Hola 👋,soy Carolina Saavedra
-Diseñadora de interfaces y páginas web con 5 años de experiencia en la creación y desarrollo de soluciones digitales.Experiencia en diseño de contenido visual para proyectos digitales,incluyendo gráficos para redes sociales, banners y materiales web. Con conocimientos en desarrollo de aplicaciones y sitios web utilizando tecnologías como JavaScript, Flutter, React Native, React, PHP,MySQL, Firebase, HTML y Tailwind CSS,Python. Me destaco por el trabajo en equipo, la responsabilidad, el seguimiento de instrucciones y el cumplimiento de objetivos.
-                                              👨‍💻 ¡Todos mis proyectos y más información están disponibles en mi portafolio!
-Conéctate conmigo:
+<h1 align="center">Hola 👋,soy Carolina Saavedra</h1>
+<h3 align="center">Desarrolladora Web Full Stack Junior y Diseñadora de Interfaces Web con 5 años de experiencia en la creación de soluciones digitales. Experiencia en diseño de contenido visual para proyectos web, incluyendo gráficos para redes sociales, banners y materiales digitales. Con conocimientos en tecnologías como JavaScript, React, React Native, Flutter, PHP, Node.js, Python, MySQL, Firebase, HTML y Tailwind CSS. Me destaco por ser responsable, autodidacta, trabajar en equipo y cumplir objetivos en el desarrollo de proyectos tecnológicos.</h3>
+
+<p align="center"> <img
+        src="https://komarev.com/ghpvc/?username=jeffersonpulido&label=Profile%20views&color=dc3545&style=flat"
+        alt="Carolina Saavedra" /> </p>
+<h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! <a href="https://jeffersonpulido.netlify.app" target="_blank">https://miportafoliocarolina.netlify.app</a>        
+
+<h3 align="left">Conéctate conmigo:</h3>
 Maria Carolina Saavedra Garzon
 
 Lenguajes de programación y herramientas:
