@@ -4,7 +4,7 @@
 <p align="center"> <img
          src="https://komarev.com/ghpvc/?username=carolinasaavedra&label=Profile%20views&color=dc3545&style=flat"
         alt="carolinasaavedra" /> </p>
-<h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! <a href="https://jeffersonpulido.netlify.app" target="_blank">https://miportafoliocarolina.netlify.app</a>        
+<h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! <a href="https://miportafoliocarolina.netlify.app" target="_blank">https://miportafoliocarolina.netlify.app</a>        
 
 <h3 align="left">Conéctate conmigo:</h3>
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center"
