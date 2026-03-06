@@ -74,13 +74,13 @@ alt="github" height="30" width="40" />
 <p>
 <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=nina2106&show_icons=true&locale=en&layout=compact"
-alt="carolina" />
+alt="carolinasaavedra" />
 </p>
 
 <p>
 <img align="center"
 src="https://github-readme-stats.vercel.app/api?username=nina2106&show_icons=true&theme=tokyonight"
-alt="carolina" />
+alt="carolinasaavedra" />
 </p>
 
 </h2>
