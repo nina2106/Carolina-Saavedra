@@ -7,7 +7,13 @@
 <h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! <a href="https://jeffersonpulido.netlify.app" target="_blank">https://miportafoliocarolina.netlify.app</a>        
 
 <h3 align="left">Conéctate conmigo:</h3>
-Maria Carolina Saavedra Garzon
+<a href="https://linkedin.com/in/maria-carolina-saavedra-garzon-b58b6223b/" target="blank"><img align="center"
+            src="https://github.com/nina2106/Carolina-Saavedra.git"
+            alt="carolinasaavedra" height="30" width="40" /></a>
+    <a href="https://github.com/JeffersonPulido" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+            alt="jeffersonpulido" height="30" width="40" /></a>
+</p>
 
 Lenguajes de programación y herramientas:
 Figma JavaScript ReactJS ReactJS ReactJS php pitón node.js
