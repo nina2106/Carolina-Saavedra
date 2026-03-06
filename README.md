@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora Web Full Stack Junior y Diseñadora de Interfaces Web con 5 años de experiencia en la creación de soluciones digitales. Experiencia en diseño de contenido visual para proyectos web, incluyendo gráficos para redes sociales, banners y materiales digitales. Con conocimientos en tecnologías como JavaScript, React, React Native, Flutter, PHP, Node.js, Python, MySQL, Firebase, HTML y Tailwind CSS. Me destaco por ser responsable, autodidacta, trabajar en equipo y cumplir objetivos en el desarrollo de proyectos tecnológicos.</h3>
 
 <p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=jeffersonpulido&label=Profile%20views&color=dc3545&style=flat"
+        src="https://komarev.com/ghpvc/?username=Carolina Saavedr&label=Profile%20views&color=dc3545&style=flat"
         alt="Carolina Saavedra" /> </p>
 <h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! <a href="https://jeffersonpulido.netlify.app" target="_blank">https://miportafoliocarolina.netlify.app</a>        
 
