@@ -52,7 +52,10 @@ Tengo experiencia en dise√±o de interfaces, desarrollo de aplicaciones y creaci√
 
 <p align="left">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/
+Carolinasaavedrag
+Nombre de la URL personalizada
+" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
