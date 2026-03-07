@@ -2,8 +2,7 @@
 <h3 align="center">Desarrolladora Web Full Stack Junior | Diseñadora de Interfaces Web</h3>
 
 <p align="center">
-Apasionada por el desarrollo web y la creación de soluciones digitales. 
-Tengo experiencia en diseño de interfaces, desarrollo de aplicaciones y creación de contenido visual para proyectos digitales.
+Diseñadora de interfaces y páginas web con 5 años de experiencia en la creación y desarrollo de soluciones digitales. Experiencia en diseño de contenido visual para proyectos digitales, incluyendo gráficos para redes sociales, banners y materiales web. Con conocimientos en desarrollo de aplicaciones y sitios web utilizando tecnologías como JavaScript, Flutter, React Native, React, PHP, MySQL, Firebase, HTML y Tailwind CSS,Python. Me destaco por el trabajo en equipo, la responsabilidad, el seguimiento de instrucciones y el cumplimiento de objetivos.
 </p>
 
 ---
